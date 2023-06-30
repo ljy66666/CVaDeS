@@ -2,7 +2,7 @@
 CVaDeS: A Conditional Variational Deep Survival Model for Survival Analysis
 
 # environment 
-# Name                    Version                  
+##Name                    Version                  
 
 cudatoolkit               11.3.1 
 lifelines                 0.27.1                
